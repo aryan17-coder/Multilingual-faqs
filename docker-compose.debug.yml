@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  multilingualfaqs:
+    image: multilingualfaqs
+    build:
+      context: .
+      dockerfile: ./Dockerfile
