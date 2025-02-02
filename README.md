@@ -166,16 +166,11 @@ We welcome contributions! To contribute:
    ```
 5. **Open a pull request.**
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 📧 Contact
 
-For questions or support, reach out via email: **your-email@example.com**
+For questions or support, reach out via email: **aryan.1si21ec010@gmail.com**
 
 🚀 Happy Coding! 🎉
